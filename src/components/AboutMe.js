@@ -44,8 +44,8 @@ const AboutMe = () => (
             </p>
 
             <p>
-              With my <span className="highlight">Master's in Computer Science from Purdue University</span> and 
-              <span className="highlight">cleared Google Hiring Assessment</span>, I've built <span className="highlight">scalable ETL workflows, real-time ML inference pipelines</span>, and designed
+              With my <span className="highlight">Master's in Computer Science from Purdue University </span>  
+              I've built <span className="highlight"> scalable ETL workflows, real-time ML inference pipelines</span>, and designed
               <span className="highlight"> data governance frameworks</span> that process petabyte-scale data with 99.9% reliability across AWS and GCP.
             </p>
 
